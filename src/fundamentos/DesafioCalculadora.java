@@ -9,5 +9,6 @@ public class DesafioCalculadora {
         double e = Math.pow(d, 3);
         double f = e / Math.pow(10, 3);
         System.out.println(f);
+
     }
 }
